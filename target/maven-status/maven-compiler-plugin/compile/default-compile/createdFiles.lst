@@ -1,0 +1,4 @@
+com/wish/springboot/Application.class
+com/wish/springboot/view/HelloController.class
+com/wish/springboot/model/Person.class
+com/wish/springboot/form/PersonForm.class
